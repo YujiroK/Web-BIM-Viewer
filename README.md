@@ -5,6 +5,9 @@
 ###### MIT license: https://github.com/cowboy1997/Revit2GLTF/blob/main/LICENSE
 ###### Library: https://github.com/cowboy1997/Revit2GLTF, partially translated into Russian.
 ###### Which allows you to upload to the stage and study models in the same formats: IFC, GLTF
+#### To start the local server, you need to install: live-server and run Start.cmd
+##### for install
+
 
 # Web-BIM-Viewer
 #### WEB-BIM Viewer
