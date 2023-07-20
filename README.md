@@ -7,7 +7,7 @@
 ###### Which allows you to upload to the stage and study models in the same formats: IFC, GLTF
 #### To start the local server, you need to install: live-server and run Start.cmd
 ###### for install:
-#### npm i live-server
+```#### npm i live-server```
 
 
 # Web-BIM-Viewer
@@ -19,4 +19,4 @@
 ###### Который позволяет загружать на сцену и изучать модели в одноименных форматах: IFC, GLTF
 #### Для запуска локального сервера  необходимо установить: live-server  и запустить Start.cmd
 ###### для установки:
-#### npm i live-server
+```#### npm i live-server```
